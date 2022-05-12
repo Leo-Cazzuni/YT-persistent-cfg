@@ -1,0 +1,2 @@
+### About:
+This is a Chrome extension to disable autoplay and subtitles for all accessed youtube videos. It can also be used to set the video quality to the desired amount, which can be useful if youtube keeps automatically downgrading the video quality based on internet speed even if your internet can handle it.
